@@ -1,0 +1,1 @@
+This repository is used for testing the Document360 integration with GitHub. This repository contains markdown files that have varying degrees of content design complexity to get the best view of work needed if we go with this tool. We are unable to test using the company's repository, so this is our workaround.
